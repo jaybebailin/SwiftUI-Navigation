@@ -1,7 +1,7 @@
 # SwiftUI-Navigation
 
 The purpose of this app is to demonstrate some of the basics with SwiftUI and Navigation. 
-This code is built off of the NavigationStack, NavigationView and NavigationDestination. 
+This code is built off of the Frameworks of NavigationStack, NavigationView, TabView, and navigationDestination. 
 
 Download the code and see how easy it is to understand the basics of SwiftUI. 
 
